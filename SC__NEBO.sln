@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC__NEBO", "SC__NEBO\SC__NEBO.csproj", "{60CF22EE-1682-4758-BE09-A6F0EECF8184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CF22EE-1682-4758-BE09-A6F0EECF8184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CF22EE-1682-4758-BE09-A6F0EECF8184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CF22EE-1682-4758-BE09-A6F0EECF8184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CF22EE-1682-4758-BE09-A6F0EECF8184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3182A4-69E7-4A21-B42E-3878C6FE5DF2}
+	EndGlobalSection
+EndGlobal
